@@ -1,0 +1,12 @@
+<resources>
+
+<string-array name="staticivili">
+    <item>Divorziato/a</item>
+    <item>Separato/a</item>
+    <item>Coniugato/a</item>
+    <item>Celibe/Nubile</item>
+</string-array>
+
+
+
+</resources>
